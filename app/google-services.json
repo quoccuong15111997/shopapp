@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603959902504",
+    "firebase_url": "https://uimihnathome-cdb69.firebaseio.com",
+    "project_id": "uimihnathome-cdb69",
+    "storage_bucket": "uimihnathome-cdb69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603959902504:android:79ccae29a701bed0",
+        "android_client_info": {
+          "package_name": "com.example.uimihnathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603959902504-6lup1noe4aumkpmvvaqjbinm6ct44lpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uimihnathome",
+            "certificate_hash": "4ed47c12a8708b9c00d9c5e321ea1f86589a96fe"
+          }
+        },
+        {
+          "client_id": "603959902504-j8dedfojtpie7ektfdg9kk43ur6ig1lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXpdav_o3WWVb8_iRlpTamLdVSHCUyXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603959902504-j8dedfojtpie7ektfdg9kk43ur6ig1lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
